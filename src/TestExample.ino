@@ -1,7 +1,8 @@
 /*
-//HEY THERE
+
  * Project TestExample
- * Description:
+ * Description: Extra comment for example
+ * More comments
  * Author:
  * Date:
  */
