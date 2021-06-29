@@ -2,7 +2,7 @@
 
  * Project TestExample
  * Description: Extra comment for example
- * More comments
+ * More comments. Hello world
  * Author:
  * Date:
  */
